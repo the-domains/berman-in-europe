@@ -1,14 +1,26 @@
-layout_spectrum: 0.5939228557981551
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5142306918278337
 color:
+  saturation: 0.4455842820461839
   brandStrength: 0.571484531275928
-  lightness: 0.7846554045099765
-  saturation: 0.44558428204618394
   rhythmicContrast: 0.8772238993551582
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  lightness: 0.7846554045099765
+layout_spectrum: 1
 name: Berman In Europe
