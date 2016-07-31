@@ -10,18 +10,18 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.45328193926252425
+typography_spectrum: 0.1869047456420958
 color:
-  saturation: 0.5226656792219728
-  brandStrength: 0.6760677385609597
-  rhythmicContrast: 0.6607627759221941
+  saturation: 0.2840428906492889
+  brandStrength: 0.8777302007656544
+  rhythmicContrast: 0.3585746723692864
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
-  lightness: 0.4127312677446753
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.27204927895218134
 layout_spectrum: 0.29497494944371283
 name: Berman In Europe
 author:
