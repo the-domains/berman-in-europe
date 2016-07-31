@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5142306918278337
+typography_spectrum: 0.45328193926252425
 color:
-  saturation: 0.4455842820461839
-  brandStrength: 0.571484531275928
-  rhythmicContrast: 0.8772238993551582
+  saturation: 0.5226656792219728
+  brandStrength: 0.6760677385609597
+  rhythmicContrast: 0.6607627759221941
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  lightness: 0.7846554045099765
-layout_spectrum: 1
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  lightness: 0.4127312677446753
+layout_spectrum: 0.29497494944371283
 name: Berman In Europe
