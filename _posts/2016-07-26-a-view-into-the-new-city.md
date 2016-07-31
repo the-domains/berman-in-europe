@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-31T12:44:37.337Z'
+datePublished: '2016-07-31T12:45:03.654Z'
 sourcePath: _posts/2016-07-26-a-view-into-the-new-city.md
 author: []
 via: {}
-dateModified: '2016-07-31T12:44:36.441Z'
+dateModified: '2016-07-31T12:45:03.015Z'
 title: ''
 publisher: {}
 description: A view from old Bruneck into new Bruneck.
