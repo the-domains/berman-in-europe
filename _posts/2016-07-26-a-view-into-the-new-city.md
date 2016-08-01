@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-01T14:01:40.900Z'
+datePublished: '2016-08-01T14:02:02.245Z'
 sourcePath: _posts/2016-07-26-a-view-into-the-new-city.md
 author: []
 via: {}
-dateModified: '2016-08-01T14:01:40.132Z'
+dateModified: '2016-08-01T14:02:01.675Z'
 title: ''
 publisher: {}
 description: A view into the new city
