@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-01T14:02:02.245Z'
+datePublished: '2016-08-01T15:06:44.484Z'
 sourcePath: _posts/2016-07-26-a-view-into-the-new-city.md
 author: []
 via: {}
-dateModified: '2016-08-01T14:02:01.675Z'
+dateModified: '2016-08-01T15:06:36.788Z'
 title: ''
 publisher: {}
-description: A view into the new city
+description: A view from Old Bruneck in to New Bruneck
 starred: false
 inFeed: true
 hasPage: true
@@ -16,4 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71169a11-f5c1-4f19-b4a7-80fdc04f4c02.jpg)
+![A view from Old Bruneck in to New Bruneck](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71169a11-f5c1-4f19-b4a7-80fdc04f4c02.jpg)
