@@ -1,19 +1,4 @@
-author:
-  name: Rehman Ali
-  email: rehmanali@gmail.com
-title: Life's Journey
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.1869047456420958
 color:
   saturation: 0.2840428906492889
   brandStrength: 0.8777302007656544
@@ -24,8 +9,23 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  lightness: 0.2720492789521813
-typography_spectrum: 0.292696
-description: From So Simple a Beginning
-layout_spectrum: 0
+  lightness: 0.27204927895218134
+layout_spectrum: 0.29497494944371283
+author:
+  name: Rehman Ali
+  email: rehmanali@gmail.com
 name: Berman In Europe
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: ''
+description: From So Simple a Beginning
